@@ -1,3 +1,7 @@
+# Web Published
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a9e318cb-b223-4000-bb58-caeef3c38880/deploy-status)](https://app.netlify.com/sites/ivaangbx-random-color/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
